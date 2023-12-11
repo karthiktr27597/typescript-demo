@@ -1,4 +1,4 @@
-type GreetProps = {
+export type GreetProps = {
     name: string,
     number?: number,
     isLoggedin: boolean,
